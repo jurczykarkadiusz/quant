@@ -1,0 +1,6 @@
+{
+  "name": "XAU/USD Quant Studio & MQL5 EA Builder",
+  "description": "Zaawansowana analityka danych rynkowych XAU/USD (Złoto), pełne sesje Azja-Londyn-Nowy Jork, analiza sweepów płynności, badanie formacji M1/M3/M5 (Win vs Loss) oraz generator kodu EA dla MetaTrader 5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
